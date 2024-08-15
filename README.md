@@ -10,7 +10,7 @@ This board is compatible with this model:
 
 *   Nintendo NES
 
-![Nintendo-NES-USB-C](https://raw.githubusercontent.com/giltesa/Nintendo-NES-USB-C-Kit/master/4.%20Photos/Nintendo-NES-v1.0.jpg)
+![Nintendo-NES-USB-C](https://raw.githubusercontent.com/giltesa/Nintendo-NES-USB-C-Kit/master/4.%20Photos/NES-USB-C-KIT_v1.0_3.jpg)
 
 
 ## Would you like it?
